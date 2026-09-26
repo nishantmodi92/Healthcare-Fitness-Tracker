@@ -19,9 +19,13 @@ Key Features
 . Fitness API integration
 
 Impact
+
 . Demonstrates modern Android UI architecture
+
 . Local-first data management
+
 . Background processing
+
 . Reactive state management
 
 Tech Stack
